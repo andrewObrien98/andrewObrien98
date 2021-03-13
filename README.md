@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @andrewObrien98
+- 👋 Hi, I’m Andrew Peterson
 - 👀 I’m interested in learning more about software
 - 🌱 I’m currently getting my CS major
 - 💞️ I’m looking to collaborate on anything that will help me learn more and grow
