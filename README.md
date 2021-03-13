@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @andrewObrien98
-- 👀 I’m interested in AI, app development, anything else really
+- 👀 I’m interested in learning more about software
 - 🌱 I’m currently getting my CS major
-- 💞️ I’m looking to collaborate on anything, preferabbly something with AI
+- 💞️ I’m looking to collaborate on anything that will help me learn more and grow
 - 📫 How to reach me by email at andrewpatrickpeterson@gmail.com
 
 <!---
